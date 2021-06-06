@@ -43,10 +43,12 @@ while (1 == 1){
           beep(1)
           statistics[counter, 'termin'] <- paste0(day, ".", month, ".")
           statistics[counter, "impfzentrum_name"] <- Impfzentrum_name
-          if (day < 20){
-            #beep(2)
+          
+          if (!(is.na(day))) {
+            if (day < 20){
+              #beep(2)
+            }
           }
-            
         }
         rm(row, data2)
       }
