@@ -1,0 +1,32 @@
+{
+    "id": "FC44A06A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1622988064378.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "statistics",
+        "caption": "statistics",
+        "totalObservations": "1",
+        "displayedObservations": "1",
+        "variables": "5",
+        "cacheKey": "2354C78D",
+        "object": "statistics",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=statistics&cache_key=2354C78D&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94274335159912,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622988064378,
+    "read_only": false,
+    "read_only_alternatives": []
+}
